@@ -1,0 +1,1 @@
+This repository contains various role-playing system prompts for ChatGPT (and other AIs)
